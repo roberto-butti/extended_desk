@@ -1,7 +1,7 @@
 {
-  "name": "socket-chat-example",
+  "name": "extended_desk",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "Extended Desk app",
   "dependencies": {
     "express": "^4.15.3",
     "socket.io": "^2.0.1"
